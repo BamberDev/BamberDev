@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://media1.tenor.com/m/pPKOYQpTO8AAAAAd/monkey-developer.gif"  />
+  ![Monkey](https://github.com/BamberDev/BamberDev/assets/130122317/052d835e-cae8-45dc-b01e-c95be885d34a)
 </div>
 
 ###
