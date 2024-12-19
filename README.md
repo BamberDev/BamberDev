@@ -44,6 +44,22 @@
   <a href="https://nextjs.org/" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
   </a>
+  <img width="12" />
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo" />
+  </a>
+  <img width="12" />
+  <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo" />
+  </a>
+  <img width="12" />
+  <a href="https://firebase.google.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo" />
+  </a>
+  <img width="12" />
+  <a href="https://docs.sqlalchemy.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="40" alt="sqlalchemy logo" />
+  </a>
 </div>
 
 <div align="center">
@@ -61,6 +77,18 @@
   <img width="12" />
   <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo" />
+  </a>
+  <img width="12" />
+  <a href="https://about.gitlab.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo" />
+  </a>
+  <img width="12" />
+  <a href="https://sentry.io/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=sentry" height="40" alt="sentry logo" />
+  </a>
+  <img width="12" />
+  <a href="https://appwrite.io/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.simpleicons.org/appwrite/F02E65" height="40" alt="appwrite logo" />
   </a>
   <img width="12" />
   <a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer">
