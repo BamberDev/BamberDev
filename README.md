@@ -8,7 +8,7 @@
 
 ###
 
-<h2 align="center">FRONTEND DEVELOPER</h2>
+<h2 align="center">FULLSTACK DEVELOPER</h2>
 
 ###
 
