@@ -53,10 +53,6 @@
     <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo" />
   </a>
   <img width="6" />
-  <a href="https://firebase.google.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo" />
-  </a>
-  <img width="6" />
   <a href="https://docs.sqlalchemy.org/" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="40" alt="sqlalchemy logo" />
   </a>
